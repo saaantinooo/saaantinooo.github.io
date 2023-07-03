@@ -1,0 +1,39 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-image: url(Fondogalaxia.jpg);
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 70%;
+    padding: 10px;
+    margin: 10px 5px 15px 20px;
+  }
+
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+h3{
+    color: 
+    rgb(255, 255, 255);
+  }
+a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50%;
+    padding: 5px;
+    margin: 10px 5px 15px 20px;
+    width: 100px;
+}
+
+.planetas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
